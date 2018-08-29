@@ -7,3 +7,4 @@ The people contributing to this project include:
 
 - [Marc Saurette](https://github.com/MarcSaurette)
 - [Kate Brasseur](https://github.com/kateBrasseur)
+- [Testing](https://github.com/TestingTess)
