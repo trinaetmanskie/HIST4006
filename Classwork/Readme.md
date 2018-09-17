@@ -8,4 +8,3 @@ Name your files according to the following convention:
 3. then what the assignment is
 
 E.g. Saurette, week 4 github test
-Veronica Berry (https://github.com/VeronicaB97)
