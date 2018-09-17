@@ -9,3 +9,4 @@ The people contributing to this project include:
 - [Kate Brasseur](https://github.com/kateBrasseur)
 - [Testing](https://github.com/TestingTess)
 - [Jessica Huang](https://github.com/jessicahuang3)
+- [Veronica Berry](https://github.com/VeronicaB97)
