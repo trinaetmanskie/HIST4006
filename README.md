@@ -10,3 +10,4 @@ The people contributing to this project include:
 - [Testing](https://github.com/TestingTess)
 - [Jessica Huang](https://github.com/jessicahuang3)
 - [Veronica Berry](https://github.com/VeronicaB97)
+- [Trina Etmanskie](https://github.com/trinaetmanskie)
