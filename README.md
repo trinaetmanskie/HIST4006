@@ -11,3 +11,7 @@ The people contributing to this project include:
 - [Jessica Huang](https://github.com/jessicahuang3)
 - [Veronica Berry](https://github.com/VeronicaB97)
 - [Olivia Richmond](https://github.com/livrichmond)
+- [Paige Bryenton](https://github.com/paigebryenton)
+- [Matthew Okum](https://github.com/MatthewOkum)
+- [Callum Tate](https://github.com/callumtate)
+- [Emily Guigue](https://github.com/emilyguigue)
