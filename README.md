@@ -15,3 +15,6 @@ The people contributing to this project include:
 - [Matthew Okum](https://github.com/MatthewOkum)
 - [Callum Tate](https://github.com/callumtate)
 - [Emily Guigue](https://github.com/emilyguigue)
+
+
+- [Trina Etmanskie](https://github.com/trinaetmanskie)
