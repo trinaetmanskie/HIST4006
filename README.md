@@ -16,10 +16,10 @@ The people contributing to this project include:
 - [Callum Tate](https://github.com/callumtate)
 - [Emily Guigue](https://github.com/emilyguigue)
 - [Trina Etmanskie](https://github.com/trinaetmanskie)
+- [Nick Leckey](https://https://github.com/NikkuReki)
 
 Awaiting:
 
 - Ian
 - Elliot
-- Nick
 - Lynsay
