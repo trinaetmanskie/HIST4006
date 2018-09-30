@@ -16,4 +16,3 @@ Here are four emoticons that represent me:
 3. :tropical_drink:
 4. :pizza:
 
-You should rename this file and put in your own content.
