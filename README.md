@@ -17,9 +17,5 @@ The people contributing to this project include:
 - [Emily Guigue](https://github.com/emilyguigue)
 - [Trina Etmanskie](https://github.com/trinaetmanskie)
 - [Nick Leckey](https://github.com/NikkuReki)
+- [Ian Kerr](https://github.com/IanKerr)
 - [Elliott Dunstan](https://github.com/ElliottDunstan)
-
-Awaiting:
-
-- Ian
-- Lynsay
