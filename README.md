@@ -8,6 +8,7 @@ The people contributing to this project include:
 - [Marc Saurette](https://github.com/MarcSaurette)
 - [Kate Brasseur](https://github.com/kateBrasseur)
 - [Testing](https://github.com/TestingTess)
+- [Lynsay O'Hara](https://github.com/lynsayo)
 - [Jessica Huang](https://github.com/jessicahuang3)
 - [Veronica Berry](https://github.com/VeronicaB97)
 - [Olivia Richmond](https://github.com/livrichmond)
