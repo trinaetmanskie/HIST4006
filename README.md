@@ -18,8 +18,4 @@ The people contributing to this project include:
 - [Trina Etmanskie](https://github.com/trinaetmanskie)
 - [Nick Leckey](https://github.com/NikkuReki)
 - [Ian Kerr](https://github.com/IanKerr)
-Awaiting:
-
-- Ian
-- Elliot
-- Lynsay
+- [Elliott Dunstan](https://github.com/ElliottDunstan)
