@@ -3,7 +3,7 @@
 Here is a list of reasons I joined HIST 4006A:
 ​
 - improve my __digital humanities skills__
-- learn _more_ about codicology and palaeography
+- learn _more_ about codicology and paleography
 - make an **online project** I can put on my CV
 - meet *awesome* medievalists
 ​
