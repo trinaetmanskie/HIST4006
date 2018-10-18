@@ -10,7 +10,7 @@ The people contributing to this project include:
 - [Testing](https://github.com/TestingTess)
 - [Lynsay O'Hara](https://github.com/lynsayo)
 - [Jessica Huang](https://github.com/jessicahuang3)
-- [Veronica Berry](https://github.com/VeronicaB97)
+- [Veronica Berry](https://github.com/VeronicaB97) :smiley:
 - [Olivia Richmond](https://github.com/livrichmond)
 - [Paige Bryenton](https://github.com/paigebryenton)
 - [Matthew Okum](https://github.com/MatthewOkum)
