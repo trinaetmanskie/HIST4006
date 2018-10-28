@@ -2,11 +2,11 @@
 
 1) Medita††† nite quia/qiua †ui††
 
-2) adiuto(z) meus (Et i be
+2) adiuto† meus (Et i be
 
 3) lamieuto alarù †aunì exul
 
-4) t†bo a(†††ct aìa nieur/meu †olt
+4) t†bo a†††ct aìa †meur† †olt
 
 5) Te me lu†ntt †††xtera tua 
 
