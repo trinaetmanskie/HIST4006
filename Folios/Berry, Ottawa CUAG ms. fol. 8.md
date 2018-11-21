@@ -37,7 +37,7 @@ Description of Parchment:
 * Verso: Along right margin towards binding see ink outlines from another illumination
 * Verso: Illumination depicts St. Stephen (possibly) holding a book referencing his sermon that resulted in his stoning and a censer (though this is shown in pencil, not clearly outlined)
 
-For beginning antiphone see http://cantus.uwaterloo.ca/chant/411431
+For beginning antiphon see http://cantus.uwaterloo.ca/chant/411431
 
 Recto Transcription:
 1. ceat (et) seciua deseruiat p(er)
