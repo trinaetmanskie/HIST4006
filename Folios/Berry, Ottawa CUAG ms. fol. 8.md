@@ -37,12 +37,14 @@ Description of Parchment:
 * Verso: Along right margin towards binding see ink outlines from another illumination
 * Verso: Illumination depicts St. Stephen (possibly) holding a book referencing his sermon that resulted in his stoning and a censer (though this is shown in pencil, not clearly outlined)
 
+For beginning antiphone see http://cantus.uwaterloo.ca/chant/411431
+
 Recto Transcription:
 1. ceat (et) seciua deseruiat p(er)
-2. memoue desanit estiene
-3. le martxr ane. Aue senior
-4. stephane aue martxr para
-5. doze qui inter agmina ple
+2. memoue de saint estienne
+3. le martyr. Antiphone. Aue senior
+4. stephane aue martyr para
+5. doxe qui inter agmina ple
 6. bis ludaice firmus in c(hrist)i
 7. fide uelut lampas ardentissi
 8. ma apparuisti domino nu(n)c
