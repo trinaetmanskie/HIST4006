@@ -52,14 +52,14 @@ Recto Transcription:
 10. aule succurre huic famillie
 11. gratissima tua interuen
 12. cione. Ora pro nobis do
-13. minium martxr stephane.
+13. minium martyr stephane.
 14. ut digni efficiamur
 
 Verso Transcription:
 1. promiss ombus c(hrist)i. Oremus
 2. Omnipotens sempi or(ati)o
 3. terne deus qui primica
-4. tis martxrum in beati leui
+4. tis martyrum in beati leui
 5. te stephani languiue dedi
 6. castil. trubue quesiunus. Ut
 7. pro nobis intercessor exi
@@ -85,3 +85,7 @@ Paleographic Features:
 * Illuminated 'O' on verso line 2
 * Tironian sign with cross in the middle seen on recto side line 1
 * Special characters on recto lines 12/14
+
+Cantus Index Numbers:
+-For beginning antiphon to St. Stephen see ID 001545. For response see index number 800539
+-For Cantus index relating to the start of prayer to St. Laurence see number 600257 
