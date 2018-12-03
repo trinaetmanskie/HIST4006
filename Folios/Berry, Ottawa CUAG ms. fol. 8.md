@@ -41,8 +41,8 @@ For beginning antiphon see http://cantus.uwaterloo.ca/chant/411431
 
 Recto Transcription:
 1. ceat (et) seciua deseruiat p(er)
-2. memoue de saint estienne
-3. le martyr. Antiphone. Aue senior
+2. memoue desaint estienne
+3. le martyr. An(tiphon)e. Aue senior
 4. stephane aue martyr para
 5. doxe qui inter agmina ple
 6. bis ludaice firmus in c(hrist)i
