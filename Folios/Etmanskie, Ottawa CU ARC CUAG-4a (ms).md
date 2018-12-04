@@ -1,68 +1,69 @@
-# Transcribing my Document
+(1)	Meditabor in te quia fiusti
 
-1) Medita††† nite quia/qiua †ui††
+(2)	adiutor meus Et ī(n) ve-
 
-2) adiuto† meus (Et i be
+(3)	lamento alarū(m) tuarū(m) exul-
 
-3) lamieuto alarù †aunì exul
+(4)	tabo adhesit aī(anima) mea post
 
-4) t†bo a†††ct aìa †meur† †olt
+(5)	te me suscepit dextera tua.
 
-5) Te me lu†ntt †††xtera tua 
+(6)	Ipī(Ispi) vero ī(n)vanum quesi-
 
-6) T†n uero iuanu queli
+(7)	Erunt aīam (animam) meā(m) introbū(n)t
 
-7) erunt aiam mea itroibut
+(8)	In interfiora terre trade(n)tur
 
-8) m infer†a terra tra†etur
+(9)	in manus glady partes vul-
 
-9) m manus gl†dy †tes’†u†
+(10) pium erunt. Rex vero
 
-10) †ium erunt Ber uew
+(11) letabitur in Dei laudabū(n)
 
-# Description of Folio
+(12) tur mones qui jurant in eo
 
-### Hair side - 
+(13) quia obstructum est os lo
 
-### Page size
-Width: 4.6inches
-Length: 6.1 inches
+(14) Deus		tiū(m) iniqua.
 
-28.06cm
+(15) 	Misereatur nri (nostri) et
 
-### textbox:
-Text width: 2.5in
-Tech length: 4.1inch
+(16) Benedicat nobis illumī(n)et
 
-10.25cm
+(17) Vultū(m) suū(m) super nos et
 
-###  *(17.81cm inches of white space??)
+New page
 
-### Writing size
+(1)	misereatur nrī (nostri). Ut cognas-
 
-Letter height: 4mm
-Line height: 8mm
-Line spacing: 1mm
+(2)	camus in terra viam tuā-
 
-### #of lines/measure spacing
-Number of lines: 17
-Line spacing: 1mm
+(3)	m omnibus gentibz(bus) salu
 
-### Quality of parchment
-- Fading ink
-- Tapped top of the manuscript (yellow masking tape)
-- Appears to be ripped out of a book (binding on left side)
-- Page looks almost wilted - like water damage (bottom left centre)
-- dark yellow almost browned edges
+(4)	tare tuū(m). Confiteantur
 
-###  Description of parchment 
-- writing is shifted towards the top left edge of the page 
-- Rough texture 
-- Bubbled in the middle 
-- Illumination 
-- Thin 
-- Sturdy 
-- Stiff 
-- Gold illumination drawing beside illuminated letter “D”
-- Dark right edge 
-- Brown ink and blue ink for background of illuminations 
+(5)	tibi populi Deus cō(n)fiteā(n)ture
+
+(6)	tib populit oiūs (omnes). Letē(n)
+
+(7)	tur et existent (exsultent) gentes quiū(niam)
+
+(8)	uidicas (judicas) populous ī(n) equitate
+
+(9)	et gentes in terra Dirigis.
+
+(10) Confiteā(n)tur tibi populi
+
+(11) Deus cōfiteātur tibi p(o)p(u)li 
+
+(12) Omīs (omnes) terra dedit fructū(m) su-
+
+(13) Um Benedict nos De(us)
+
+(14) Deus nr(nostri) benedicat nos De(us)
+
+(15) Et mutuant eū(m) omīs (omnes) fines
+
+(16) Terre.  Requiem eterna
+
+(17) Dona eis Duē (domine). Et lux
